@@ -25,7 +25,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Utilized Java, PHP, Android Studio, phpMyAdmin, and MySQL.
 
 ## 🎓 Education
-Bachelor’s Degree in Software Engineering (Multimedia System Development) Universiti Kebangsaan Malaysia (Sept 2017 - Oct 2021)
+### Universiti Kebangsaan Malaysia
+- Bachelor’s Degree in Software Engineering (Multimedia System Development) (Sept 2017 - Oct 2021)
 
 Feel free to explore my repositories and connect with me! I'm always open to discussing new ideas, collaborations, or just having a tech chat. 
 🌟🌟🌟 I'm also open to internships or roles in DevOps or backend development to strengthen my skills 🌟🌟🌟
