@@ -24,6 +24,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Developed a mobile app for reporting environmental concerns.
 - Utilized Java, PHP, Android Studio, phpMyAdmin, and MySQL.
 
+## Certificate
+### Amazon Web Services (AWS)
+- AWS Certified Cloud Practitioner CLF-C02 Dec 2024 – Dec 2027
+- https://www.credly.com/badges/819fd709-b88d-4975-9192-049d1f7ba945/public_url
+
+
 ## 🎓 Education
 ### Universiti Kebangsaan Malaysia
 - Bachelor’s Degree in Software Engineering (Multimedia System Development) (Sept 2017 - Oct 2021)
